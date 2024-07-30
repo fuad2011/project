@@ -369,39 +369,79 @@ color: white;
     margin-left: 700px;
 }
 .d1{
-    width: 400px;
+    width: 500px;
     color: white;
     background-color: gray;
     margin-left: 100px;
+    height: 250px;
+}
+.d1 p{
+    width: 450px;
+}
+.d1 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    margin-left: -60px;
 }
 .green1{
     color: greenyellow;
 }
 .d2{
-    width: 400px;
+    width: 500px;
     color: white;
     background-color: gray;
     margin-left: 900px;
     margin-top: -240px;
+    height: 250px;
+}
+.d2 p{
+    width: 450px;
+}
+.d2 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    margin-left: -60px;
 }
 .green2{
     color: greenyellow;
 }
 .d3{
-    width: 400px;
+    width: 500px;
     color: white;
     background-color: gray;
     margin-left: 100px;
+    height: 250px;
+}
+.d3 p{
+    width: 450px;
+}
+.d3 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    margin-left: -60px;
 }
 .green3{
     color: greenyellow;
 }
 .d4{
-    width: 400px;
+    width: 500px;
     color: white;
     background-color: gray;
     margin-left: 900px;
     margin-top: -240px;
+    height: 250px;
+}
+.d4 p{
+    width: 450px;
+}
+.d4 img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+    margin-left: -60px;
 }
 .green4{
     color: greenyellow;
@@ -677,12 +717,9 @@ height: 600px;
     border-radius:5px ;
     margin-top: 20px;
 }
-.inp4{
-    background-color: rgb(97, 97, 97);
-    width: 650px;
-    height: 300px;
-    border-radius:5px ;
-    margin-top: 20px;
+.tex1{
+    height: 650px;
+    width: 300px;
 }
 .pp1{
 color: blue;
@@ -815,4 +852,9 @@ margin-top: 5px;
 }
 .laaaast{
     margin-top: 30px;
+}
+.colorlib{
+    color: greenyellow;
+    margin-left: 475px;
+    margin-top: -32px;
 }
